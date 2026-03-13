@@ -1,6 +1,6 @@
 # Numerical Methods for Linear Algebra
 
-![The Ideal City](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino_2.jpg/960px-Formerly_Piero_della_Francesca_-_Ideal_City_-_Galleria_Nazionale_delle_Marche_Urbino_2.jpg)
+![The Ideal City](./painting.jpg)
 
 *"The Ideal City" (c. 1480-1490) by Unknown (Urbino panel) — [Wikipedia](https://en.wikipedia.org/wiki/The_Ideal_City_(painting))*
 
